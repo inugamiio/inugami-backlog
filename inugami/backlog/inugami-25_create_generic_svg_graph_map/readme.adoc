@@ -1,0 +1,30 @@
+= Inugami-25 : Create generic svg graph map
+:encoding: UTF-8
+:toc: macro
+:toclevels: 4
+
+toc::[4]
+
+== GOAL :
+
+![for servers map](https://github.com/inugamiio/inugami-backlog/raw/master/inugami/backlog/inugami-25_create_generic_svg_graph_map/example/example_01.png)
+
+![for servers map](https://github.com/inugamiio/inugami-backlog/blob/master/inugami/backlog/inugami-25_create_generic_svg_graph_map/example/example_02.gif?raw=true)
+
+![for servers map](https://github.com/inugamiio/inugami-backlog/blob/master/inugami/backlog/inugami-25_create_generic_svg_graph_map/example/example_05.png?raw=true)
+
+![for map](https://github.com/inugamiio/inugami-backlog/blob/master/inugami/backlog/inugami-25_create_generic_svg_graph_map/example/example_04.png?raw=true)
+
+== SVG requirement : 
+
+=== Event model :
+
+=== Component specification : 
+
+
+=== Attributs
+
+=== Events
+
+
+=== Handlers
